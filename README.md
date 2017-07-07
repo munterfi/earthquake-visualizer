@@ -29,7 +29,7 @@ By hovering over earthquakes additional information (place description, time and
 
 ## Authors
 
-* **Merlin UnterfingerThompson** - *Initial work* - [munterfinger](http://munterfinger.ch)
+* **Merlin Unterfinger** - *Initial work* - [munterfinger](http://munterfinger.ch)
 
 ## Built With
 
@@ -39,4 +39,4 @@ By hovering over earthquakes additional information (place description, time and
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
