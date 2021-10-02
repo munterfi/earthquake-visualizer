@@ -29,7 +29,7 @@ By hovering over earthquakes additional information (place description, time and
 
 ## Authors
 
-* **Merlin Unterfinger** - *Initial work* - [munterfinger](http://munterfinger.ch)
+* **Merlin Unterfinger** - *Initial work* - [munterfi](https://github.com/munterfi)
 
 ## Built With
 
